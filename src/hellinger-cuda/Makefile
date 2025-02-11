@@ -6,7 +6,7 @@
 CC        = nvcc
 OPTIMIZE  = yes
 DEBUG     = no
-ARCH      = sm_60
+ARCH      = sm_80
 VERIFY    = yes
 FP64      = no
 LAUNCHER  =

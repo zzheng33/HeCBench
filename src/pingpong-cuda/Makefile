@@ -6,7 +6,7 @@
 CC        = nvcc
 OPTIMIZE  = yes
 DEBUG     = no
-ARCH      = sm_60
+ARCH      = sm_80
 #MPI_ROOT  = /usr/lib/x86_64-linux-gnu/openmpi
 #LAUNCHER  = /usr/bin/mpirun -n 2
 NVHPC_SDK = /opt/nvidia/hpc_sdk/Linux_x86_64/24.5

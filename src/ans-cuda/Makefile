@@ -1,4 +1,4 @@
-ARCH = 60
+ARCH      = sm_80
 
 NVCC = nvcc
 NVCC_ARCH = -gencode arch=compute_$(ARCH),code=sm_$(ARCH)

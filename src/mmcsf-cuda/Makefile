@@ -7,7 +7,7 @@ CC        = nvcc
 OPTIMIZE  = yes
 DEBUG     = no
 BOOST     = $(HOME)/boost_1_76_0
-ARCH      = sm_60
+ARCH      = sm_80
 LAUNCHER  =
 
 #===============================================================================

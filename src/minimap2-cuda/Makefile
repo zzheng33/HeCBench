@@ -1,6 +1,6 @@
 CXX = g++
 NVCC = nvcc
-ARCH = sm_60
+ARCH      = sm_80
 
 # path #
 SRC_PATH = src

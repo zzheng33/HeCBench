@@ -10,7 +10,7 @@ CC        = nvcc
 LD        = mpiCC #$(MPI_ROOT)/bin/mpiCC
 OPTIMIZE  = yes
 DEBUG     = no
-ARCH      = sm_60
+ARCH      = sm_80
 LAUNCHER  =
 
 #===============================================================================

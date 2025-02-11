@@ -6,7 +6,7 @@
 CC        = nvcc
 OPTIMIZE  = yes
 DEBUG     = no
-ARCH      = sm_60
+ARCH      = sm_80
 GSL_INC   =-I/path/to/gsl/include
 GSL_LIB   =-L/path/to/gsl/lib -lgsl -lgslcblas 
 LAUNCHER  =

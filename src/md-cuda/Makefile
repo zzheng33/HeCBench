@@ -7,7 +7,7 @@ CC        = nvcc
 OPTIMIZE  = yes
 DEBUG     = no
 SP        = yes
-ARCH      = sm_60
+ARCH      = sm_80
 LAUNCHER  =
 
 #===============================================================================

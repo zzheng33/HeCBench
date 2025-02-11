@@ -6,7 +6,7 @@
 CC        = nvcc
 OPTIMIZE  = yes
 DEBUG     = no
-ARCH      = sm_60
+ARCH      = sm_80
 #MPI_ROOT  = /usr/lib/x86_64-linux-gnu/openmpi
 #LAUNCHER  = /usr/bin/mpirun -n 1
 MPI_ROOT  = /opt/nvidia/hpc_sdk/Linux_x86_64/24.5/comm_libs/12.4/openmpi4/openmpi-4.1.5/
